@@ -1,3 +1,5 @@
+COMPUTER NETWORK PRACTICALS 
+
 1. Simulate Cyclic Redundancy Check (CRC) error detection algorithm for noisy channel.
 
 2. Simulate and implement stop and wait protocol for noisy channel.
